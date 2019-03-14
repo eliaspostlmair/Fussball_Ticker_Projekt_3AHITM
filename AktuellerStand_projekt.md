@@ -1,0 +1,1 @@
+Aktuell haben wir noch nicht so viel beij Projekt geschafft.Unser Ziel war es erst mal zu verstehen wie der Datenabruf funktioniert.Dazu haben wir ein kleines Programm geschrieben wo man einen beliebigen Spieltag der Saison 16/17 abrufen kann.Funktioniert noch nicht.￼ 
