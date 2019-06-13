@@ -96,6 +96,9 @@ public class FXMLController implements Initializable {
             case "2. Bundesliga":
                 league = "bl2";
                 break;
+            case "3.Liga":
+                league = "bl3";
+                break; 
             default:
                 break;
         }
